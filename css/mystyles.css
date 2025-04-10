@@ -1,0 +1,10 @@
+body{
+    font-family: 'Courier New', Courier, monospace;
+    background-color: rgb(226, 229, 210);
+}
+h1,h2,h3, .subheading{
+    font-family: 'Courier New', Courier, monospace !important;
+}
+a:hover{
+    color: rgb(65, 94, 46) !important;
+}

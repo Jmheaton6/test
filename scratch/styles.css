@@ -1,0 +1,50 @@
+body {
+    font-family: Georgia, 'Times New Roman', Times, serif;
+    background-color: rgb(60, 132, 239);
+    color: rgb(197, 219, 239);
+    background-image: url("../assets/img/home-bg.jpg");
+    background-repeat: no-repeat;
+    background-size: cover;
+}
+
+a {
+    color: rgb(165, 186, 186);
+    background-color: rgb(53, 52, 52);
+}
+
+h1,
+h2 {
+    text-align: center;
+}
+
+img {
+    border: 5px solid orange;
+    padding: 5px;
+    height: 200px;
+    margin: auto;
+    display: block;
+}
+
+.rizz {
+    font-family: comic-sans;
+    color: hotpink;
+    border: 5px dashed yellow;
+    font-size: 400%;
+    font-weight: bolder;
+    background-color: limegreen;
+}
+
+.rizz:hover {
+    font-size: 450%;
+    color: red;
+    border: 5px solid cyan;
+}
+
+li {
+    width: fit-content;
+}
+
+li:hover {
+    text-decoration: underline;
+    background-color: rgb(85, 81, 81);
+}
